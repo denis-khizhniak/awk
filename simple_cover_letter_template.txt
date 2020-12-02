@@ -1,0 +1,13 @@
+Dear {recipient},
+
+I am writing to you to express my interest in interviewing for the position of {position}.
+
+Working for a {company-characteristics} company that {company-merits} really appeal to me. My interest in {my-interest} motivates me to apply to this job position.
+
+Bringing the experience of working at the highest industry standard, pragmatic professional with a strong interest in challenging projects, I set as a personal objective to elaborate further in the field of {position-field} within the {company-short-attr} company.
+My previous work experience has resulted in a high level of expertise in building complex ETL processes and construct efficient SQL queries.
+
+I would welcome the opportunity to discuss my experience and qualifications further as they relate to your needs.
+
+Kind regards,
+Denis Khizhniak
